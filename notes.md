@@ -15,3 +15,6 @@ MySQL is a RDBMS
 MySQL Workbench is a GUI/database client for MySQL
 MySQL consists of tables made up of columns and rows
 Data types include: numeric (int,floats,decimal), unasigned, boolean (0==False,1==True), str (char,varchar,text), date, time, datetime, null
+chaining clauses using and or, like, not like, in, null, not null, between
+chaining order by clauses in desc and asc order
+getting queries in batches using limit and offset
