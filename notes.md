@@ -1,4 +1,5 @@
 # My DS Notes
+
 Git is a free program that stores all versions of code
 git clone to clone repositories from Github
 git add to add files 
@@ -7,3 +8,10 @@ git push to upload files to Github
 git restore --staged to place files back to untrack list
 gitignore hides files from untracked options
 This is a repository for my notes
+
+
+SQL is a language
+MySQL is a RDBMS
+MySQL Workbench is a GUI/database client for MySQL
+MySQL consists of tables made up of columns and rows
+Data types include: numeric (int,floats,decimal), unasigned, boolean (0==False,1==True), str (char,varchar,text), date, time, datetime, null
