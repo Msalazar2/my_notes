@@ -18,3 +18,5 @@ Data types include: numeric (int,floats,decimal), unasigned, boolean (0==False,1
 chaining clauses using and or, like, not like, in, null, not null, between
 chaining order by clauses in desc and asc order
 getting queries in batches using limit and offset
+primary keys are unique, NON Null, used to optimize tables
+unique is similar to primary keys but for columns
