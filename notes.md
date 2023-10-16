@@ -20,3 +20,12 @@ chaining order by clauses in desc and asc order
 getting queries in batches using limit and offset
 primary keys are unique, NON Null, used to optimize tables
 unique is similar to primary keys but for columns
+
+
+NLP Data Preparation:
+- Convert all text to lowecase
+- Remove accented words
+- Remove special characters
+- Tokenization
+- Stemming and lemmatization
+- Remove stopwords
